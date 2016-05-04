@@ -1,0 +1,17 @@
+/Users/phamkhacthanh/Monkey/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/phamkhacthanh/Monkey/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/phamkhacthanh/Monkey/obj/Debug/Assembly-CSharp-firstpass.dll
+/Users/phamkhacthanh/Monkey/obj/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/phamkhacthanh/Monkey/Temp/bin/Debug/UnityEngine.dll
+/Users/phamkhacthanh/Monkey/Temp/bin/Debug/UnityEditor.dll
+/Users/phamkhacthanh/Monkey/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/phamkhacthanh/Monkey/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/phamkhacthanh/Monkey/Temp/bin/Debug/Mono.Cecil.dll
+/Users/phamkhacthanh/Monkey/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/phamkhacthanh/Monkey/Temp/bin/Debug/Unity.DataContract.dll
+/Users/phamkhacthanh/Monkey/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/phamkhacthanh/Monkey/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/phamkhacthanh/Monkey/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/phamkhacthanh/Monkey/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/phamkhacthanh/Monkey/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/phamkhacthanh/Monkey/Temp/bin/Debug/Mono.Cecil.Mdb.dll
